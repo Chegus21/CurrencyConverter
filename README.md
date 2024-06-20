@@ -36,7 +36,7 @@ Asegúrate de tener las siguientes dependencias en tu archivo `build.gradle`:
 ```
 
 ## Estructura del Proyecto
-La clase principal del proyecto se encuentra en src/main/java/com/example/CurrencyConverter.java.
+La clase principal del proyecto se encuentra en `src/main/java/com/example/CurrencyConverter.java`.
 
 ## Ejecución del Proyecto
 1. Crear el Proyecto:
